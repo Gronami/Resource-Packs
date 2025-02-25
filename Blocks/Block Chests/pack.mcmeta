@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "description": {
+      "text": "Classic Full Block Chests!",
+      "extra": [
+        {
+          "text": "\nGronami ",
+          "color": "light_purple",
+          "bold": true
+        }
+      ]
+    },
+    "pack_format": 61,
+    "supported_formats": [
+      4,
+      61
+    ]
+  }
+}
