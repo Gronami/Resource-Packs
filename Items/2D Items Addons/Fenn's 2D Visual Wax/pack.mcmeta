@@ -1,0 +1,27 @@
+{
+  "pack": {
+    "description": {
+      "text": "Support for Vanilla Tweaks ",
+      "extra": [
+        {
+          "text": "\"Visual Waxed Copper\"",
+          "color": "gold",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://vanillatweaks.net"
+          }
+	},
+        {
+          "text": "\nGronami ",
+          "color": "light_purple",
+          "bold": true
+        }
+      ]
+    },
+    "pack_format": 61,
+    "supported_formats": [
+      4,
+      61
+    ]
+  }
+}

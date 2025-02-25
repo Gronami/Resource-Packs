@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "description": {
+      "text": "Changed Poppy back to Rose ",
+      "extra": [
+        {
+          "text": "\nby Gronami",
+          "color": "light_purple",
+          "bold": true
+        }
+      ]
+    },
+    "pack_format": 61,
+    "supported_formats": [
+      4,
+      61
+    ]
+  }
+}
